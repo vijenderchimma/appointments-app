@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.list-item {
+  border: 1px solid #b5b7c4;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.starred-image {
+  background-color: transparent;
+  border: none;
+}
+
+.heading {
+  font-size: 25px;
+}
+.formatted-date {
+  color: #b5b7c4;
+  font-size: 15px;
+}
